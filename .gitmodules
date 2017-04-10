@@ -1,0 +1,9 @@
+[submodule "LiquidIoT-ApplicationFramework"]
+	path = LiquidIoT-ApplicationFramework
+	url = https://github.com/pervcomp/LiquidIoT-ApplicationFramework
+[submodule "LiquidIoT-RuntimeEnvironment"]
+	path = LiquidIoT-RuntimeEnvironment
+	url = https://github.com/pervcomp/LiquidIoT-RuntimeEnvironment
+[submodule "LiquidIoT-ResourceRegistry"]
+	path = LiquidIoT-ResourceRegistry
+	url = https://github.com/pervcomp/LiquidIoT-ResourceRegistry
